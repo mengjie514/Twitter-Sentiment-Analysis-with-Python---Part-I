@@ -13,8 +13,4 @@ Limit the sample to only active users, which is defined as those who
 - follow 50 or more other accounts
 - tweet in English, and d) have sent more than 3 tweets.
 
-## Text Cleaning
-- HTML decoding
-- @mention
-- URL link
-- Emoticons 
+
